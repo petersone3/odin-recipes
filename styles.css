@@ -1,7 +1,9 @@
- div {
-    color: white;
-    font-size: 32px;
-    background-color: red;
-    font-weight: bold;
+ * {
+   font-family: 'Arial', Verdana, Tahoma, sans-serif;
  }
+ p {
+   color: black;
+   font-size: medium;
+ }
+ 
  
